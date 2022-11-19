@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="backSpace">⌫</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="factorial">x!</string>
+    <string name="exponent">Xʸ</string>
+    <string name="square_root">√</string>
+    <string name="reciprocal">1/x</string>
+    <string name="percentage">%</string>
+    <string name="All_Clear">AC</string>
+    <string name="bracket_open">(</string>
+    <string name="bracket_close">)</string>
+    <string name="division">÷</string>
+    <string name="multiplication">×</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="equals_to">=</string>
+    <string name="Pi">π</string>
+    <string name="dot">.</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="back">←</string>
+
+
+</resources>
